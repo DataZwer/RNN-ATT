@@ -1,0 +1,5 @@
+model_checkpoint_path: "D:\\NLP\347\250\213\345\272\217\347\233\270\345\205\263\\RNN-ATT\\model_saver\\gru_att\\gru_att-7"
+all_model_checkpoint_paths: "D:\\NLP\347\250\213\345\272\217\347\233\270\345\205\263\\RNN-ATT\\model_saver\\gru_att\\gru_att-1"
+all_model_checkpoint_paths: "D:\\NLP\347\250\213\345\272\217\347\233\270\345\205\263\\RNN-ATT\\model_saver\\gru_att\\gru_att-2"
+all_model_checkpoint_paths: "D:\\NLP\347\250\213\345\272\217\347\233\270\345\205\263\\RNN-ATT\\model_saver\\gru_att\\gru_att-3"
+all_model_checkpoint_paths: "D:\\NLP\347\250\213\345\272\217\347\233\270\345\205\263\\RNN-ATT\\model_saver\\gru_att\\gru_att-7"
